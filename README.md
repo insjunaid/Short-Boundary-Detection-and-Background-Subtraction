@@ -14,7 +14,11 @@ This process involves identifying shorter edges or boundaries in an image, typic
 
 
 
-Background Subtraction: This technique extracts the foreground (moving objects or regions of interest) from a static or changing background. It works by creating a model of the background and subtracting it from the current frame of a video or image, leaving behind only the dynamic elements. Background subtraction is widely used in video surveillance, traffic monitoring, and similar applications.
+Background Subtraction: 
+
+This technique extracts the foreground (moving objects or regions of interest) from a static or changing background. It works by creating a model of the background and subtracting it from the current frame of a video or image, leaving behind only the dynamic elements. Background subtraction is widely used in video surveillance, traffic monitoring, and similar applications.
+
+![Screenshot 2024-11-25 213740](https://github.com/user-attachments/assets/7c9fb6fe-2e09-4718-9545-f8b271ad8efb)
 
 When combined, these methods enable robust detection of objects in scenes with complex or dynamic backgrounds, making them suitable for tasks like safe driving assistance, surveillance systems, and augmented reality.
 
