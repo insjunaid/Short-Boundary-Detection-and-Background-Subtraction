@@ -1,1 +1,1 @@
-# Short-Boundary-Detection-and-Background-Subtraction-S
+# Short-Boundary-Detection-and-Background-Subtraction
